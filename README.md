@@ -15,5 +15,5 @@ This repository contains the weekly tasks for 24-25:4122 Programming and Scripti
 ## References
 
 - https://www.geeksforgeeks.org/python-list-slicing/
-- Whirlwind Tour of Python, Built-In Types: Simple Values, Aside: Floating-point precision
+- A Whirlwind Tour of Python by Jake VanderPlas, Built-In Types: Simple Values, Aside: Floating-point precision
 - https://www.w3schools.com/python/python_string_formatting.asp
