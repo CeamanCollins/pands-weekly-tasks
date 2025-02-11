@@ -3,6 +3,16 @@
 
 This repository contains the weekly tasks for 24-25:4122 Programming and Scripting as part of Higher Diploma in Science in Computing in Data Analytics at ATU.
 
+## Contents
+
+### Week 1: helloworld.py 
+
+Simple script to print Hello World!
+
+### Week 2: bank.py
+
+Script to add two input numbers and return the sum in euro.
+
 # Setup
 
 1. Click the green Code button at the top right of this section.
@@ -17,3 +27,4 @@ This repository contains the weekly tasks for 24-25:4122 Programming and Scripti
 - https://www.geeksforgeeks.org/python-list-slicing/
 - A Whirlwind Tour of Python by Jake VanderPlas, Built-In Types: Simple Values, Aside: Floating-point precision
 - https://www.w3schools.com/python/python_string_formatting.asp
+- https://stackoverflow.com/questions/2030053/how-to-generate-random-strings-in-python
