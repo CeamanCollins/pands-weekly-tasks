@@ -4,8 +4,10 @@
 
 account_number = input("Please enter an 10 digit account number: ")
 # https://stackoverflow.com/questions/2030053/how-to-generate-random-strings-in-python
-returned_string = ''
+censored_number = ''
+
 for i in range(0,len(account_number)-4):
-    returned_string += "X"
-returned_string += account_number[-4:]
-print(returned_string)
+    censored_number += "X"
+censored_number += account_number[-4:]
+
+print(censored_number)
