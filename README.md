@@ -13,6 +13,10 @@ Simple script to print Hello World!
 
 Script to add two input numbers and return the sum in euro.
 
+### Week 3: accounts.py
+
+Script to obscure all but the last four digits of an input number.
+
 # Setup
 
 1. Click the green Code button at the top right of this section.
@@ -27,4 +31,5 @@ Script to add two input numbers and return the sum in euro.
 - https://www.geeksforgeeks.org/python-list-slicing/
 - A Whirlwind Tour of Python by Jake VanderPlas, Built-In Types: Simple Values, Aside: Floating-point precision
 - https://www.w3schools.com/python/python_string_formatting.asp
+- https://stackoverflow.com/questions/2030053/how-to-generate-random-strings-in-python
 - https://stackoverflow.com/questions/2030053/how-to-generate-random-strings-in-python
