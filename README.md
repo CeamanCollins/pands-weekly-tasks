@@ -17,6 +17,14 @@ Script to add two input numbers and return the sum in euro.
 
 Script to obscure all but the last four digits of an input number.
 
+### Week 4: collatz.py
+
+A script that asks the user to input any positive integer and outputs the sucessive values of the following calulation:
+
+Take the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one.
+
+The script ends if the current value is one.
+
 # Setup
 
 1. Click the green Code button at the top right of this section.
@@ -33,3 +41,4 @@ Script to obscure all but the last four digits of an input number.
 - https://www.w3schools.com/python/python_string_formatting.asp
 - https://stackoverflow.com/questions/2030053/how-to-generate-random-strings-in-python
 - https://stackoverflow.com/questions/2030053/how-to-generate-random-strings-in-python
+- https://stackoverflow.com/questions/15769246/pythonic-way-to-print-list-items
