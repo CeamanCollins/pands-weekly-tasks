@@ -25,6 +25,10 @@ Take the current value and, if it is even, divide it by two, but if it is odd, m
 
 The script ends if the current value is one.
 
+### Week 5: weekday.py
+
+This is a script that prints out a message depending on the day. One message for weekdays and another for weekends.
+
 # Setup
 
 1. Click the green Code button at the top right of this section.
@@ -36,9 +40,10 @@ The script ends if the current value is one.
 
 ## References
 
+- A Whirlwind Tour of Python by Jake VanderPlas
 - https://www.geeksforgeeks.org/python-list-slicing/
-- A Whirlwind Tour of Python by Jake VanderPlas, Built-In Types: Simple Values, Aside: Floating-point precision
 - https://www.w3schools.com/python/python_string_formatting.asp
 - https://stackoverflow.com/questions/2030053/how-to-generate-random-strings-in-python
-- https://stackoverflow.com/questions/2030053/how-to-generate-random-strings-in-python
 - https://stackoverflow.com/questions/15769246/pythonic-way-to-print-list-items
+- https://stackoverflow.com/questions/9847213/how-do-i-get-the-day-of-week-given-a-date
+- https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes
