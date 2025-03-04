@@ -29,6 +29,10 @@ The script ends if the current value is one.
 
 This is a script that prints out a message depending on the day. One message for weekdays and another for weekends.
 
+### Week 6: squareroot.py
+
+Script that takes a positive floating-point number as input and outputs an approximation of its square root using Newton's approximation method.
+
 # Setup
 
 1. Click the green Code button at the top right of this section.
@@ -47,3 +51,4 @@ This is a script that prints out a message depending on the day. One message for
 - https://stackoverflow.com/questions/15769246/pythonic-way-to-print-list-items
 - https://stackoverflow.com/questions/9847213/how-do-i-get-the-day-of-week-given-a-date
 - https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes
+- https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
