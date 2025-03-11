@@ -33,6 +33,10 @@ This is a script that prints out a message depending on the day. One message for
 
 Script that takes a positive floating-point number as input and outputs an approximation of its square root using Newton's approximation method.
 
+### Week 7: 
+
+A script that takes in a file as a command line argument and counts the number of Es contained in the file while catching certain errors.
+
 # Setup
 
 1. Click the green Code button at the top right of this section.
