@@ -16,4 +16,6 @@ print(f"The sum of these is €{(firstvalue + secondvalue)/100:.2f}")
 
 # References used: 
 # Whirlwind Tour of Python, Built-In Types: Simple Values, Aside: Floating-point precision
+# This reference was helpful in getting the right format syntax.
 # https://www.w3schools.com/python/python_string_formatting.asp
+# Some further research on string formatting.

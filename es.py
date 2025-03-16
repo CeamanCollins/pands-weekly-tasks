@@ -5,8 +5,10 @@
 # certain errors.
 # References used: 
 # https://stackoverflow.com/questions/70797/user-input-and-command-line-arguments
+# I checked this reference to understand how to get input from command line arguments.
+# sys.argv was taken from this reference and with some experimentation it worked as intended.
 # https://stackoverflow.com/questions/2932511/letter-count-on-a-string
-# https://www.geeksforgeeks.org/how-to-substring-a-string-in-python/
+# In this reference I found the .count() method for counting letters in a string.
 
 import sys
 # Start error catching

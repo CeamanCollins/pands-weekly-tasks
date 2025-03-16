@@ -45,14 +45,3 @@ A script that takes in a file as a command line argument and counts the number o
 4. Install the Python extension.
 5. Click the play button at the top right of the code.
 6. Check the terminal at the bottom of the window. It may require some input from the user.
-
-## References
-
-- A Whirlwind Tour of Python by Jake VanderPlas
-- https://www.geeksforgeeks.org/python-list-slicing/
-- https://www.w3schools.com/python/python_string_formatting.asp
-- https://stackoverflow.com/questions/2030053/how-to-generate-random-strings-in-python
-- https://stackoverflow.com/questions/15769246/pythonic-way-to-print-list-items
-- https://stackoverflow.com/questions/9847213/how-do-i-get-the-day-of-week-given-a-date
-- https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes
-- https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/

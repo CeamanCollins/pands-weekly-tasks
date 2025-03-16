@@ -26,4 +26,6 @@ values_list.append(1)
 
 # Reference: https://stackoverflow.com/questions/15769246/pythonic-way-to-print-list-items
 # Reference: A Whirlwind Tour of Python by Jake VanderPlas, Iterators: Iterators as function arguments
+# These references were both used to understand better how to print the items in a list
+# rather than printing the list itself.
 print(*values_list)

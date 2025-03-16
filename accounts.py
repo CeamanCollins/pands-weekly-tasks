@@ -17,3 +17,5 @@ print(censored_number)
 
 # References used:
 # https://stackoverflow.com/questions/2030053/how-to-generate-random-strings-in-python
+# While not exactly what I was looking for, it gave me ideas as how to generate strings.
+# I took the idea of using += to get the desired result.
