@@ -10,22 +10,30 @@ current_value = int(input("Please enter a positive integer: "))
 values_list = []
 
 # while loop for iteration
+
 while current_value != 1:
+
     #saving iterated values
+
     values_list.append(current_value)
+
     # testing for even numbers
+
     if not current_value % 2:
         current_value = int(current_value/2)
+
     # if not even then odd
+
     else:
         current_value = current_value * 3 + 1
 
-# if the current value is 1 the while loop is not completed
-# so adding manually
+# if the current value is 1 the while loop is not completed so adding manually
+
 values_list.append(1)
 
 # Reference: https://stackoverflow.com/questions/15769246/pythonic-way-to-print-list-items
 # Reference: A Whirlwind Tour of Python by Jake VanderPlas, Iterators: Iterators as function arguments
 # These references were both used to understand better how to print the items in a list
 # rather than printing the list itself.
+
 print(*values_list)
