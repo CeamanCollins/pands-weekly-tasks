@@ -27,6 +27,7 @@ try:
         # read contents
 
         text = fp.read()
+        
         # count number of es in file
 
         number_of_es = text.count('e')
