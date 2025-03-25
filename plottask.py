@@ -75,6 +75,7 @@ ax.set_ybound(0,n.max()+50)
 ax.set_title('plottask.py')
 ax.set_xlabel('X')
 ax.set_ylabel('Y')
+ax.set_xticks([1,3,5,7,9])
 
 # adding a legend
 
