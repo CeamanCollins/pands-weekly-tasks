@@ -30,8 +30,8 @@ try:
         
         # count number of es in file
 
-        number_of_es = text.count('e')
-        print(number_of_es)
+        number_of_es = text.lower().count('e')
+        print(f"There are {number_of_es} es in the document.")
 
 # catching index errors if no command line argument given
 

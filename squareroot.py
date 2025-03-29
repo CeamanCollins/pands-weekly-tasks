@@ -2,6 +2,7 @@
 # Author: Céaman Collins
 # Script that takes a positive floating-point number as input 
 # and outputs an approximation of its square root.
+
 # References used:
 # https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
 # This reference contained not only a description of newton's method but also
