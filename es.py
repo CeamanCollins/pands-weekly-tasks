@@ -41,7 +41,7 @@ except IndexError:
 # catching file not found errors 
 
 except FileNotFoundError:
-    print(f"Could not find file named '{sys.argv[1]}'. Please try again.")
+    print(f"Could not find file named '{file}'. Please try again.")
 
 # catching errors when file is not a text file
 

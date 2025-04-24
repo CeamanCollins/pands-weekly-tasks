@@ -19,7 +19,7 @@ Script to obscure all but the last four digits of an input number.
 
 ### Week 4: collatz.py
 
-A script that asks the user to input any positive integer and outputs the sucessive values of the following calulation:
+Script that asks the user to input any positive integer and outputs the sucessive values of the following calulation:
 
 Take the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one.
 
